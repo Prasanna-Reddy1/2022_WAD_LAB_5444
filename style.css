@@ -1,0 +1,19 @@
+h1{
+    align-items: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+body{
+    background: purple;
+}
+table{
+    background: rgb(241, 241, 240);
+    align-items: center;
+}
+th ,td{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    align-items: left;
+}
